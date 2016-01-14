@@ -57,3 +57,11 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Nikola
+*~
+output/
+cache/
+__pycache__
+.doit.db
+
