@@ -60,6 +60,7 @@ target/
 
 # Nikola
 *~
+*.swp
 output/
 cache/
 __pycache__

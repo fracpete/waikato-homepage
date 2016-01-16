@@ -8,6 +8,12 @@
 .. type: text
 .. hidetitle: True
 
+.. image:: images/mandel_closeup.png
+   :height: 100px
+   :align: right
+   :class: logo-image
+
+
 professional
 ============
 
