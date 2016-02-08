@@ -28,6 +28,12 @@
   [`doi <http://dx.doi.org/10.1016/j.compag.2014.08.011>`__] 
   [`pdf </pubs/2014/Hill_et_al_data_mining_2014.pdf>`__]
 
+* Reutemann PM, Holmes G 2014. *Scientific workflow management with ADAMS:
+  building and data mining a database of crop protection and related data.* In:
+  Beresford RM, Froud KJ, Kean JM, Worner SP ed. The plant protection data tool
+  box. New Zealand Plant Protection Society. pp 167-174.
+  [`pdf </pubs/2014/Reutemann2014.pdf>`__]
+
 2012
 ====
 
