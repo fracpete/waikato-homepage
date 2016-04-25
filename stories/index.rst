@@ -20,6 +20,7 @@ professional
 * Day-to-day 
   [`adams <https://adams.cms.waikato.ac.nz/>`__] 
   [`ml <http://en.wikipedia.org/wiki/Machine_learning>`__]
+  [`mooc <https://weka.waikato.ac.nz/>`__]
 * Reviewer 
   [`jmlr/mloss <http://jmlr.csail.mit.edu/mloss/>`__]
 * Programme committee 
@@ -35,11 +36,13 @@ personal
 ========
 
 * Waikato Linux User Group (WLUG) 
+  [`www <http://www.wlug.org.nz/>`__] 
   [`meetup <http://www.meetup.com/WaikatoLinuxUsersGroup/>`__] 
   [`mailing list <http://list.waikato.ac.nz/mailman/listinfo/wlug/>`__]
 * Python 
-  [`nzpug <http://nzpug.org/>`__] 
+  [`www <http://nzpug.org/>`__] 
   [`meetup <http://www.meetup.com/nzpug-hamilton/>`__]
+  [`mailing list <https://groups.google.com/forum/#!forum/nzpug>`__]
 * Blog 
   [`www <http://open.fracpete.org/>`__]
 

@@ -9,6 +9,15 @@
 .. hidetitle: True
 
 
+2016
+====
+
+* Jesse Read, Peter Reutemann, Bernhard Pfahringer, Geoff Holmes (2016). *MEKA:
+  A Multi-label/Multi-target Extension to WEKA* 17(21):1−5.
+  [`pdf <http://jmlr.org/papers/volume17/12-164/12-164.pdf>`__] 
+  [`www <http://jmlr.org/papers/v17/12-164.html>`__]
+
+
 2015
 ====
 
