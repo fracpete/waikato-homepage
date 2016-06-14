@@ -13,6 +13,13 @@
    :align: right
    :class: logo-image
 
+.. line-block::
+
+   Open-source advocate and programmer by heart, 
+   specialized in workflow engines,
+   machine learning and data mining.
+
+
 
 professional
 ============
