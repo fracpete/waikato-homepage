@@ -18,6 +18,9 @@ active
 * python-weka-wrapper 
   [`pypi <https://pypi.python.org/pypi/python-weka-wrapper>`__] 
   [`github <https://github.com/fracpete/python-weka-wrapper>`__]
+* python-weka-wrapper3
+  [`pypi <https://pypi.python.org/pypi/python-weka-wrapper3>`__] 
+  [`github <https://github.com/fracpete/python-weka-wrapper3>`__]
 * MEKA: A Multi-label Extension to WEKA - contributor (experiments, GUI) 
   [`www <http://meka.sourceforge.net/>`__]
 * Weka - maintainer (09/2005-06/2007) and contributor (since 2004) 
@@ -30,7 +33,7 @@ active
   [`www <https://github.com/fracpete/jfilechooser-bookmarks>`__]
 * sizeofag (SizeOf Agent) - mavenization 
   [`www <https://github.com/fracpete/sizeofag>`__]
-* **more on** `github <http://github.com/fracpete/>`__
+* **many more on** `github <http://github.com/fracpete/>`__
 
 
 discontinued
