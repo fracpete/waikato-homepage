@@ -50,6 +50,6 @@ personal
   [`www <http://nzpug.org/>`__] 
   [`meetup <http://www.meetup.com/nzpug-hamilton/>`__]
   [`mailing list <https://groups.google.com/forum/#!forum/nzpug>`__]
-* Blog 
+* Open-source blog 
   [`www <http://open.fracpete.org/>`__]
 
