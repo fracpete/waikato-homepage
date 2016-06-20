@@ -9,6 +9,15 @@
 .. hidetitle: True
 
 
+.. line-block::
+
+   "Not craftsmen, my lord," he said. 
+   "I have no use for people who have learned the limits of the possible."
+
+     Leonard of Quirm
+     *The last hero, Terry Pratchett*
+
+
 active
 ======
 
