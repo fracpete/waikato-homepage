@@ -42,7 +42,7 @@ active
   [`www <https://github.com/fracpete/jfilechooser-bookmarks>`__]
 * sizeofag (SizeOf Agent) - mavenization 
   [`www <https://github.com/fracpete/sizeofag>`__]
-* **many more on** `github <http://github.com/fracpete/>`__
+* **many more on** `github <http://github.com/fracpete/>`__ (`curated list <https://github.com/fracpete/projects>`__)
 
 
 discontinued
