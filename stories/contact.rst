@@ -1,6 +1,6 @@
 .. title: contact
 .. slug: contact
-.. date: 2016-01-14 08:27:41 UTC+13:00
+.. date: 2017-11-06 11:00:03 UTC+13:00
 .. tags: 
 .. category: 
 .. link: 
@@ -19,7 +19,7 @@
 | Hamilton 3240
 | New Zealand
 
-| `FG.2.03 <http://www.waikato.ac.nz/contacts/map/?ERI>`__ (ERI building)
+| `FG.2.03 <https://www.waikato.ac.nz/contacts/map/?ERI>`__ (ERI building)
 | **P** +64 (7) 858-5174
 | **F** +64 (7) 858-5095
 | fracpete at waikato dot ac dot nz
@@ -27,8 +27,8 @@
 profiles
 ========
 
-* `LinkedIn <http://nz.linkedin.com/in/fracpete>`__
-* `Github <http://github.com/fracpete>`__
+* `LinkedIn <https://www.linkedin.com/in/fracpete/>`__
+* `Github <https://github.com/fracpete>`__
 * `OpenHub <https://www.openhub.net/accounts/31405?ref=Tiny>`__
 * `ORCID <http://orcid.org/0000-0002-1226-0948>`__
 * `ResearchGate <https://www.researchgate.net/profile/Peter_Reutemann>`__

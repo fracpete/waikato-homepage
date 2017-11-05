@@ -1,6 +1,6 @@
 .. title: home
 .. slug: index
-.. date: 2016-01-14 08:27:23 UTC+13:00
+.. date: 2017-11-06 11:00:04 UTC+13:00
 .. tags: 
 .. category: 
 .. link: 
@@ -37,7 +37,7 @@ professional
 * Session chair 
   [`eResearch NZ 2014 <https://adams.cms.waikato.ac.nz/ernz-2014/>`__]
 * Teaching 
-  [`comp314 <http://papers.waikato.ac.nz/papers/COMP314>`__]
+  [`comp314 <http://papers.waikato.ac.nz/papers/COMP314>`__] (2015-2017)
 
 personal
 ========

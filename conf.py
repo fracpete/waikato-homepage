@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Peter Reutemann"  # (translatable)
 BLOG_TITLE = "fracpete"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://www.cms.waikato.ac.nz/~fracpete/"
+SITE_URL = "https://www.cms.waikato.ac.nz/~fracpete/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://www.cms.waikato.ac.nz/~fracpete/"
@@ -135,7 +135,8 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootstrap3.fracpete"
+#THEME = "bootstrap3.fracpete"
+THEME = "bootstrap3"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
