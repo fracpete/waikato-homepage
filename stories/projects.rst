@@ -1,6 +1,6 @@
 .. title: projects
 .. slug: projects
-.. date: 2017-11-06 11:00:01 UTC+13:00
+.. date: 2018-02-25 09:38:01 UTC+13:00
 .. tags: 
 .. category: 
 .. link: 
@@ -15,7 +15,7 @@
    "I have no use for people who have learned the limits of the possible."
 
      Leonard of Quirm
-     *The last hero, Terry Pratchett*
+     *The Last Hero, Terry Pratchett*
 
 
 active
@@ -25,15 +25,17 @@ active
   [`www <https://adams.cms.waikato.ac.nz/>`__] 
   [`youtube <http://www.youtube.com/user/TheAdamsWorkflow>`__]
 * python-weka-wrapper 
-  [`pypi <https://pypi.python.org/pypi/python-weka-wrapper>`__] 
   [`github <https://github.com/fracpete/python-weka-wrapper>`__]
+  [`doc <https://fracpete.github.io/python-weka-wrapper/>`__] 
 * python-weka-wrapper3
-  [`pypi <https://pypi.python.org/pypi/python-weka-wrapper3>`__] 
   [`github <https://github.com/fracpete/python-weka-wrapper3>`__]
+  [`doc <https://fracpete.github.io/python-weka-wrapper3/>`__] 
 * MEKA: A Multi-label Extension to WEKA - contributor (experiments, GUI) 
   [`www <http://meka.sourceforge.net/>`__]
 * Weka - maintainer (09/2005-06/2007) and contributor (since 2004) 
   [`www <http://www.cms.waikato.ac.nz/~ml/weka/>`__]
+* weka-virtualenv
+  [`www <https://github.com/fracpete/weka-virtualenv>`__]
 * MOA (Massive Online Analysis) - contributor 
   [`www <http://moa.cms.waikato.ac.nz/>`__]
 * Semi-Supervised Learning and Collective Classification 
