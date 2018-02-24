@@ -527,7 +527,7 @@ REDIRECTIONS = []
 # in a `nikola deploy` command as you like.
 DEPLOY_COMMANDS = {
     'default': [
-        "rsync -rv --delete --exclude '*~' --exclude pubs --exclude acml2016 output/ fracpete@gale.cms.waikato.ac.nz:/home/fracpete/public_html",
+        "rsync -rv --delete --exclude '*~' --exclude pubs --exclude acml2016 output/ fracpete@clout.cms.waikato.ac.nz:/home/fracpete/public_html",
     ]
 }
 
