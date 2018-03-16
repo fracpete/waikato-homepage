@@ -19,7 +19,7 @@
 | Hamilton 3240
 | New Zealand
 
-| `FG.2.03 <https://www.waikato.ac.nz/contacts/map/?ERI>`__ (ERI building)
+| `G.2.19 <https://www.waikato.ac.nz/contacts/map/?G>`__
 | **P** +64 (7) 858-5174
 | **F** +64 (7) 858-5095
 | fracpete at waikato dot ac dot nz
