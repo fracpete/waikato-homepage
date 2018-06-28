@@ -118,5 +118,4 @@
   [`paper </pubs/2004/AI2004.pdf>`__] 
   [`poster A4 </pubs/2004/AI2004_poster.pdf>`__] 
   [`poster A3 </pubs/2004/AI2004_poster_a3.pdf>`__] 
-  [`www <http://www.ai2004.cqu.edu.au/>`__]
 
