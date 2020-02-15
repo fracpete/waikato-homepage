@@ -24,9 +24,6 @@ active
 * ADAMS (Advanced Data mining and Machine learning System) 
   [`www <https://adams.cms.waikato.ac.nz/>`__] 
   [`youtube <http://www.youtube.com/user/TheAdamsWorkflow>`__]
-* python-weka-wrapper 
-  [`github <https://github.com/fracpete/python-weka-wrapper>`__]
-  [`doc <https://fracpete.github.io/python-weka-wrapper/>`__] 
 * python-weka-wrapper3
   [`github <https://github.com/fracpete/python-weka-wrapper3>`__]
   [`doc <https://fracpete.github.io/python-weka-wrapper3/>`__] 
@@ -42,6 +39,8 @@ active
   [`www <https://github.com/fracpete/collective-classification-weka-package>`__]
 * jfilechooser-bookmarks 
   [`www <https://github.com/fracpete/jfilechooser-bookmarks>`__]
+* requests4j
+  [`www <https://github.com/fracpete/requests4j>`__]
 * rsync4j
   [`www <https://github.com/fracpete/rsync4j>`__]
 * sizeofag (SizeOf Agent) - mavenization 

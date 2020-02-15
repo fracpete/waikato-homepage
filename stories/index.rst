@@ -26,8 +26,8 @@ professional
 
 * Day-to-day 
   [`adams <https://adams.cms.waikato.ac.nz/>`__] 
-  [`ml <http://en.wikipedia.org/wiki/Machine_learning>`__]
-  [`mooc <https://www.futurelearn.com/partners/waikato>`__]
+  [`taiao <https://taiao.ai/>`__]
+  [`ufdl <https://waikato-ufdl.github.io/>`__]
 * Reviewer 
   [`jmlr/mloss <http://jmlr.csail.mit.edu/mloss/>`__]
 * Programme committee 
