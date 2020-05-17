@@ -26,7 +26,7 @@ professional
 
 * Day-to-day 
   [`adams <https://adams.cms.waikato.ac.nz/>`__] 
-  [`taiao <https://taiao.ai/>`__]
+  [`taiao <http://taiao.ai/>`__]
   [`ufdl <https://waikato-ufdl.github.io/>`__]
 * Reviewer 
   [`jmlr/mloss <http://jmlr.csail.mit.edu/mloss/>`__]
@@ -34,10 +34,6 @@ professional
   [`mloss15 <http://mloss.org/workshop/icml15/>`__] 
   [`mloss13 <http://mloss.org/workshop/nips13/>`__] 
   [`mloss10 <http://mloss.org/workshop/icml10/>`__]
-* Session chair 
-  [`eResearch NZ 2014 <https://adams.cms.waikato.ac.nz/ernz-2014/>`__]
-* Teaching 
-  [`comp314 <http://papers.waikato.ac.nz/papers/COMP314>`__] (2015-2017)
 
 personal
 ========
