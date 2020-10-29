@@ -1,6 +1,6 @@
 .. title: contact
 .. slug: contact
-.. date: 2017-11-06 11:00:03 UTC+13:00
+.. date: 2020-10-29 15:40:03 UTC+13:00
 .. tags: 
 .. category: 
 .. link: 
@@ -13,6 +13,7 @@
 | *MSc CS (Freiburg, Germany)*
 | Senior Research Programmer
 
+| Applied Machine Learning Group
 | Department of Computer Science
 | The University of Waikato
 | Private Bag 3105
@@ -20,8 +21,7 @@
 | New Zealand
 
 | `G.2.19 <https://www.waikato.ac.nz/contacts/map/?G>`__
-| **P** +64 (7) 858-5174
-| **F** +64 (7) 858-5095
+| **P** +64 (7) 577-5304 (leave message)
 | fracpete at waikato dot ac dot nz
 
 profiles

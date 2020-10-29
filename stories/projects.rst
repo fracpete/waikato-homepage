@@ -24,6 +24,10 @@ active
 * ADAMS (Advanced Data mining and Machine learning System) 
   [`www <https://adams.cms.waikato.ac.nz/>`__] 
   [`youtube <http://www.youtube.com/user/TheAdamsWorkflow>`__]
+* UFDL (User-friendly Deep Learning)
+  [`www <https://waikato-ufdl.github.io/>`__]
+* TAIAO
+  [`www <http://taiao.ai/>`__]
 * python-weka-wrapper3
   [`github <https://github.com/fracpete/python-weka-wrapper3>`__]
   [`doc <https://fracpete.github.io/python-weka-wrapper3/>`__] 
@@ -45,7 +49,11 @@ active
   [`www <https://github.com/fracpete/rsync4j>`__]
 * sizeofag (SizeOf Agent) - mavenization 
   [`www <https://github.com/fracpete/sizeofag>`__]
-* **many more on** `github <https://github.com/fracpete/>`__ (`curated list <https://github.com/fracpete/projects>`__)
+* **many more on:**
+
+  * `github.com/fracpete <https://github.com/fracpete/>`__ (`curated list <https://github.com/fracpete/projects>`__)
+  * `github.com/waikato-datamining <https://github.com/waikato-datamining/>`__
+  * `github.com/Waikato <https://github.com/Waikato/>`__
 
 
 discontinued
