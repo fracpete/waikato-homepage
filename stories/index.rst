@@ -27,7 +27,7 @@ professional
 * Day-to-day 
   [`adams <https://adams.cms.waikato.ac.nz/>`__] 
   [`taiao <http://taiao.ai/>`__]
-  [`ufdl <https://waikato-ufdl.github.io/>`__]
+  [`ufdl <https://ufdl.cms.waikato.ac.nz/>`__]
 * Reviewer 
   [`jmlr/mloss <http://jmlr.csail.mit.edu/mloss/>`__]
 * Programme committee 
