@@ -25,7 +25,7 @@ active
   [`www <https://adams.cms.waikato.ac.nz/>`__] 
   [`youtube <http://www.youtube.com/user/TheAdamsWorkflow>`__]
 * UFDL (User-friendly Deep Learning)
-  [`www <https://waikato-ufdl.github.io/>`__]
+  [`www <https://ufdl.cms.waikato.ac.nz/>`__]
 * TAIAO
   [`www <http://taiao.ai/>`__]
 * python-weka-wrapper3
