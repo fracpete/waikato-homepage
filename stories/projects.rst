@@ -16,6 +16,7 @@
 
      Leonard of Quirm
      *The Last Hero, Terry Pratchett*
+     
 
 
 active
@@ -28,9 +29,12 @@ active
   [`www <https://ufdl.cms.waikato.ac.nz/>`__]
 * TAIAO
   [`www <http://taiao.ai/>`__]
-* python-weka-wrapper3
+* python-weka-wrapper3 (Python 3)
   [`github <https://github.com/fracpete/python-weka-wrapper3>`__]
   [`doc <https://fracpete.github.io/python-weka-wrapper3/>`__] 
+* sklearn-weka-plugin
+  [`github <https://github.com/fracpete/sklearn-weka-pluging>`__]
+  [`doc <https://fracpete.github.io/sklearn-weka-plugin/>`__] 
 * MEKA: A Multi-label Extension to WEKA - contributor (experiments, GUI) 
   [`www <http://meka.sourceforge.net/>`__]
 * Weka - maintainer (09/2005-06/2007) and contributor (since 2004) 
@@ -49,11 +53,14 @@ active
   [`www <https://github.com/fracpete/rsync4j>`__]
 * sizeofag (SizeOf Agent) - mavenization 
   [`www <https://github.com/fracpete/sizeofag>`__]
-* **many more on:**
+* vfsjfilechooser2 (JFileChooser alternative) - mavenization/maintenance 
+  [`www <https://github.com/fracpete/vfsjfilechooser2>`__]
+* **many, many more on:**
 
   * `github.com/fracpete <https://github.com/fracpete/>`__ (`curated list <https://github.com/fracpete/projects>`__)
   * `github.com/waikato-datamining <https://github.com/waikato-datamining/>`__
   * `github.com/Waikato <https://github.com/Waikato/>`__
+  * `github.com/waikato-ufdl <https://github.com/waikato-ufdl/>`__
 
 
 discontinued
@@ -65,6 +72,7 @@ discontinued
   [`www <https://www.cs.waikato.ac.nz/ml/proper/>`__] 
   [`pdf </pubs/2004/thesis.pdf>`__] 
   [`ps </pubs/2004/thesis.ps.gz>`__]
-* vfsjfilechooser2 (JFileChooser alternative) - mavenization/maintenance 
-  [`www <https://github.com/fracpete/vfsjfilechooser2>`__]
+* python-weka-wrapper (Python 2.7)
+  [`github <https://github.com/fracpete/python-weka-wrapper>`__]
+  [`doc <https://fracpete.github.io/python-weka-wrapper/>`__] 
 
