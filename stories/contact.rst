@@ -1,6 +1,6 @@
 .. title: contact
 .. slug: contact
-.. date: 2020-10-29 15:40:03 UTC+13:00
+.. date: 2023-01-09 14:40:03 UTC+13:00
 .. tags: 
 .. category: 
 .. link: 
@@ -21,7 +21,7 @@
 | New Zealand
 
 | `G.2.19 <https://www.waikato.ac.nz/contacts/map/?G>`__
-| **P** +64 (7) 577-5304 (leave message)
+| **P** +64 22 190 2375
 | fracpete at waikato dot ac dot nz
 
 profiles

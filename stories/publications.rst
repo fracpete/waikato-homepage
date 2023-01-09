@@ -1,12 +1,19 @@
 .. title: publications
 .. slug: publications
-.. date: 2016-01-14 08:27:27 UTC+13:00
+.. date: 2022-01-09 14:40:27 UTC+13:00
 .. tags: 
 .. category: 
 .. link: 
 .. description: 
 .. type: text
 .. hidetitle: True
+
+2022
+====
+
+* Keegan, T. T., Apperley, M., & Reutemann, P. (2022) *Indigenous Language Promotion 
+  in a Smart Home.* In Foundation for Endangered Languages FEL XXVI, Conference Book, 124-130. 
+  [`pdf <https://vonweber.nl/fel/proceedings/202209231053311938.pdf>`__]
 
 
 2016

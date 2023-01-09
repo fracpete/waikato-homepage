@@ -1,6 +1,6 @@
 .. title: projects
 .. slug: projects
-.. date: 2018-02-25 09:38:01 UTC+13:00
+.. date: 2023-01-09 14:38:01 UTC+13:00
 .. tags: 
 .. category: 
 .. link: 
@@ -53,8 +53,6 @@ active
   [`www <https://github.com/fracpete/rsync4j>`__]
 * sizeofag (SizeOf Agent) - mavenization 
   [`www <https://github.com/fracpete/sizeofag>`__]
-* vfsjfilechooser2 (JFileChooser alternative) - mavenization/maintenance 
-  [`www <https://github.com/fracpete/vfsjfilechooser2>`__]
 * **many, many more on:**
 
   * `github.com/fracpete <https://github.com/fracpete/>`__ (`curated list <https://github.com/fracpete/projects>`__)
@@ -75,4 +73,6 @@ discontinued
 * python-weka-wrapper (Python 2.7)
   [`github <https://github.com/fracpete/python-weka-wrapper>`__]
   [`doc <https://fracpete.github.io/python-weka-wrapper/>`__] 
+* vfsjfilechooser2 (JFileChooser alternative) - mavenization/maintenance 
+  [`www <https://github.com/fracpete/vfsjfilechooser2>`__]
 
