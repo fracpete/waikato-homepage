@@ -21,7 +21,7 @@
 | New Zealand
 
 | `G.2.19 <https://www.waikato.ac.nz/contacts/map/?G>`__
-| **P** +64 22 190 2375
+| **Mobile** +64 22 190 2375
 | fracpete at waikato dot ac dot nz
 
 profiles
