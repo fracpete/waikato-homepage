@@ -1,6 +1,6 @@
 .. title: home
 .. slug: index
-.. date: 2023-01-09 14:40:04 UTC+13:00
+.. date: 2023-03-30 14:40:04 UTC+13:00
 .. tags: 
 .. category: 
 .. link: 
@@ -40,12 +40,10 @@ personal
 ========
 
 * Waikato Linux User Group (WLUG) 
-  [`www <http://www.wlug.org.nz/>`__] 
-  [`meetup <http://www.meetup.com/WaikatoLinuxUsersGroup/>`__] 
   [`mailing list <https://list.waikato.ac.nz/postorius/lists/wlug.list.waikato.ac.nz/>`__]
 * Python 
-  [`www <http://nzpug.org/>`__] 
-  [`meetup <http://www.meetup.com/nzpug-hamilton/>`__]
+  [`www <https://python.nz/>`__] 
+  [`meetup <https://www.meetup.com/nzpug-hamilton/>`__]
   [`mailing list <https://groups.google.com/forum/#!forum/nzpug>`__]
 * Open-source blog 
   [`www <http://open.fracpete.org/>`__]
